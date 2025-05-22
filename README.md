@@ -14,8 +14,8 @@ Welcome to my GitHub profile.
 
 
 ## ⚡ Hardware Projects
-- [FPGA Blinking LED](https://github.com/Ahtesham18112011/fpga-blink) - Simple Verilog project for beginners
-- [UART Communication Module](https://github.com/Ahtesham18112011/uart-verilog) - UART design in Verilog
+- [RISC-V core on FPGA](https://github.com/Ahtesham18112011/RISCV_MYTH) - RISC-V core implementation on FPGA
+- [Traffic Light controller system](https://github.com/Ahtesham18112011/Traffic_controller_VSDSquadronFM) - Simple traffic light control system
 
 ## 📈 GitHub Stats
 ![Ahtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahtesham18112011&show_icons=true&hide_title=true)
