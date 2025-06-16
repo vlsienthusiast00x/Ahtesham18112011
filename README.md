@@ -10,7 +10,7 @@ Welcome to my GitHub profile.
 
 
 ## 🛠️ Languages and Tools
-![TCL](https://img.shields.io/badge/verilog-%23E44D26.svg?style=flat&logo=verilog&logoColor=white)
+![TCL](https://img.shields.io/badge/tcl-%23E44D26.svg?style=flat&logo=tcl&logoColor=white)
 ![](https://img.shields.io/badge/verilog-%23E44D26.svg?style=flat&logo=verilog&logoColor=white)
 
 ## ⚡ Hardware Projects
