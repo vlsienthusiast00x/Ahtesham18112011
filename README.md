@@ -10,8 +10,8 @@ Welcome to my GitHub profile.
 
 
 ## 🛠️ Languages and Tools
-![Verilog](https://img.shields.io/badge/verilog-%23E44D26.svg?style=flat&logo=verilog&logoColor=white)
-
+![TCL](https://img.shields.io/badge/verilog-%23E44D26.svg?style=flat&logo=verilog&logoColor=white)
+![](https://img.shields.io/badge/verilog-%23E44D26.svg?style=flat&logo=verilog&logoColor=white)
 
 ## ⚡ Hardware Projects
 - [RISC-V core on FPGA](https://github.com/Ahtesham18112011/RISCV_MYTH) - RISC-V core implementation on FPGA
