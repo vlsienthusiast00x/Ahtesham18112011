@@ -15,7 +15,7 @@ Welcome to my GitHub profile.
 
 ## ⚡ Hardware Projects
 - [RISC-V core on FPGA](https://github.com/Ahtesham18112011/RISCV_MYTH) - RISC-V core implementation on FPGA
-- [Spodrue](https://github.com/Ahtesham18112011/Spodrue) - Simple traffic light control system
+- [Spodrue](https://github.com/Ahtesham18112011/Spodrue) - a graphical user interface that takes input as csv and generate sdc outputs and pre-layout timings.
 
 ## 📈 GitHub Stats
 ![Ahtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahtesham18112011&show_icons=true&hide_title=true)
