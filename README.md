@@ -22,7 +22,7 @@ Welcome to my GitHub profile.
 
 A classic Pong game made in Python! 🏓
 ## 📈 GitHub Stats
-![Ahtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahtesham18112011&show_icons=true&hide_title=true)
+![Ahtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytesculptor097&show_icons=true&hide_title=true)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtesham-ahmed-779845365/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
