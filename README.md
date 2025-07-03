@@ -16,7 +16,11 @@ Welcome to my GitHub profile.
 ## ⚡ Hardware Projects
 - [RISC-V core on FPGA](https://github.com/Ahtesham18112011/RISCV_MYTH) - RISC-V core implementation on FPGA
 - [Spodrue](https://github.com/Ahtesham18112011/Spodrue) - a graphical user interface that takes input as csv and generate sdc outputs and pre-layout timings.
+## 🎮 Featured Project
 
+[![Play Pong!](https://img.shields.io/badge/Pong-Play%20Now-green?style=for-the-badge&logo=github)](https://github.com/bytesculptor097/pong_game)
+
+A classic Pong game made in Python! 🏓
 ## 📈 GitHub Stats
 ![Ahtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahtesham18112011&show_icons=true&hide_title=true)
 
