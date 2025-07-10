@@ -20,7 +20,7 @@ Welcome to my GitHub profile.
 
 [![Play Pong!](https://img.shields.io/badge/Pong-Play%20Now-green?style=for-the-badge&logo=github)](https://github.com/bytesculptor097/pong_game)
 
-A classic Pong game made in Python! 🏓
+A classic Pong game made in TCL! 🏓
 ## 📈 GitHub Stats
 ![Ahtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytesculptor097&show_icons=true&hide_title=true)
 
