@@ -11,9 +11,9 @@ Welcome to my GitHub profile.
 
 ## 🛠️ Languages and Tools
 ![TCL](https://img.shields.io/badge/tcl-%23E44D26.svg?style=flat&logo=tcl&logoColor=white)
-![](https://img.shields.io/badge/verilog-%23E44D26.svg?style=flat&logo=verilog&logoColor=white)
+![Verilog](https://img.shields.io/badge/verilog-%23E44D26.svg?style=flat&logo=verilog&logoColor=white)
 
-## ⚡ Hardware Projects
+## ⚡ Some popular Projects
 - [RISC-V core on FPGA](https://github.com/Ahtesham18112011/RISCV_MYTH) - RISC-V core implementation on FPGA
 - [Spodrue](https://github.com/Ahtesham18112011/Spodrue) - a graphical user interface that takes input as csv and generate sdc outputs and pre-layout timings.
 ## 🎮 Featured Project
