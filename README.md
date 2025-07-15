@@ -9,9 +9,11 @@ Welcome to my GitHub profile.
 - 💬 Ask me about Verilog, FPGAs, and digital circuits
 
 
-## 🛠️ Languages and Tools
-![TCL](https://img.shields.io/badge/tcl-%23E44D26.svg?style=flat&logo=tcl&logoColor=white)
-![Verilog](https://img.shields.io/badge/verilog-%23E44D26.svg?style=flat&logo=verilog&logoColor=white)
+## 🛠️ Languages 
+![TCL](https://img.shields.io/badge/TCL-%23E44D26.svg?style=flat&logo=tcl&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-%23E44D26.svg?style=flat&logo=verilog&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23E44D26.svg?style=flat&logo=tcl&logoColor=white)
+
 
 ## ⚡ Some popular Projects
 - [RISC-V core on FPGA](https://github.com/Ahtesham18112011/RISCV_MYTH) - RISC-V core implementation on FPGA
