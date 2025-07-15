@@ -18,9 +18,9 @@ Welcome to my GitHub profile.
 - [Spodrue](https://github.com/Ahtesham18112011/Spodrue) - a graphical user interface that takes input as csv and generate sdc outputs and pre-layout timings.
 ## 🎮 Featured Project
 
-[![Play Pong!](https://img.shields.io/badge/Pong-Play%20Now-green?style=for-the-badge&logo=github)](https://github.com/bytesculptor097/pong_game)
+[![Play Pong!](https://img.shields.io/badge/Pong-Play%20Now-green?style=for-the-badge&logo=github)](https://github.com/bytesculptor097/pong)
 
-A classic Pong game made in TCL! 🏓
+A classic Pong game made in Python! 🏓
 ## 📈 GitHub Stats
 ![Ahtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytesculptor097&show_icons=true&hide_title=true)
 
