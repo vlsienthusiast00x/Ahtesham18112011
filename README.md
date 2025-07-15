@@ -5,9 +5,8 @@ Welcome to my GitHub profile.
 ## 🚀 About Me
 - 💻 Hardware Description Language enthusiast (Verilog)
 - 🌱 I’m currently learning advanced digital design and FPGA development
-- 👯 I’m looking to collaborate on open-source hardware projects
-- 💬 Ask me about Verilog, FPGAs, and digital circuits
-
+- 👨‍💻 I’m also interested in software development 
+- 💬 Ask me about languages like TCL, Verilog and Python
 
 ## 🛠️ Languages 
 ![TCL](https://img.shields.io/badge/TCL-%23E44D26.svg?style=flat&logo=tcl&logoColor=white)
