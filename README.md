@@ -18,8 +18,8 @@ Welcome to my GitHub profile.
 
 
 ## ⚡ Some popular Projects
-- [RISC-V core on FPGA](https://github.com/Ahtesham18112011/RISCV_MYTH) - RISC-V core implementation on FPGA
-- [RV32IM core](https://github.com/Ahtesham18112011/rv32im-single-cycle-cpu) - A single-cycleed RISC-V core with multiplication/Division operations.
+- [RISC-V core on FPGA](https://github.com/bytesculptor097/RISCV_MYTH) - RISC-V core implementation on FPGA
+- [RV32IM core](https://github.com/bytesculptor097/rv32im-single-cycle-cpu) - A single-cycleed RISC-V core with multiplication/Division operations.
 ## 🎮 Featured Project
 
 [![Play Pong!](https://img.shields.io/badge/Pong-Play%20Now-green?style=for-the-badge&logo=github)](https://github.com/bytesculptor097/pong)
