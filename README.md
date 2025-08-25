@@ -13,7 +13,7 @@ Welcome to my GitHub profile.
 ![Verilog](https://img.shields.io/badge/Verilog-%23E44D26.svg?style=flat&logo=verilog&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23E44D26.svg?style=flat&logo=tcl&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytesculptor097&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlsienthusiast00x&layout=compact)
 
 
 
@@ -26,7 +26,7 @@ Welcome to my GitHub profile.
 
 A classic Pong game made in Python! 🏓
 ## 📈 GitHub Stats
-![Ahtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytesculptor097&show_icons=true&hide_title=true)
+![Ahtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlsienthusiast00x&show_icons=true&hide_title=true)
 
 
 ## 🔗 Connect with Me
