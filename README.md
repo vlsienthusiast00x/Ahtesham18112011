@@ -22,10 +22,10 @@ _A personal exploration of pipelining, hazards, and instruction handling_
 - Hazard detection & forwarding paths validated with simulation  
 - Synthesis tested on FPGA boards
 
-### 🔍 [Pipeline Hazard Visualizer](https://github.com/vlsienthusiast00x/rv32im-single-cycled-cpu)
-_A tool to visualize pipeline hazards and flush behavior in real time_  
-- Simulates stall, flush, and forwarding scenarios  
-- Built to deepen understanding of CPU control flow
+### 🔍 [RISC-V 32IM Single-cycled CPU](https://github.com/vlsienthusiast00x/rv32im-single-cycle-cpu)
+_A customed single cycled core with m extension_  
+- Supportes basic instructions  
+- Good for educational purposes
 
 ---
 
