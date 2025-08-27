@@ -29,6 +29,10 @@ _A tool to visualize pipeline hazards and flush behavior in real time_
 
 ---
 
+## 💻 Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
 ## 📈 Current Goals
 - Validate hazard handling under all branch/jump scenarios
 - Expand regression testing for pipeline correctness
