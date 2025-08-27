@@ -1,12 +1,13 @@
 # 👋 Hi, I’m Ahtesham  
 
-💡 **CPU Architecture & FPGA Enthusiast**  
+💡 **CPU Architecture & VLSI Enthusiast**  
 🔍 Passionate about exploring **pipeline design, hazard resolution, and RISC‑V architecture** — with a focus on learning, experimenting, and sharing insights.
 
 ---
 
 ## 🛠️ Interests & Focus
 - Building and refining **multi‑cycle & pipelined CPU architectures**
+- Building VLSI circuits using Verilog
 - Exploring **forwarding, hazard handling, and control flow logic**
 - Using FPGA synthesis tools to bring designs to life
 - Visualizing architectures through **block diagrams & waveform analysis**
@@ -15,7 +16,7 @@
 ---
 
 ## 📂 Featured Learning Projects
-### 🚀 [RISC‑V 32IM Pipeline CPU](#)
+### 🚀 [RISC‑V 32IM Pipeline CPU](https://github.com/vlsienthusiast00x/rv32im-pipelined-cpu)
 _A personal exploration of pipelining, hazards, and instruction handling_  
 - Correct **PC tracking** for JAL, JALR, AUIPC, LUI, Branch  
 - Hazard detection & forwarding paths validated with simulation  
@@ -46,7 +47,7 @@ I believe in:
 ---
 
 ## 📫 Let’s Connect
-- **GitHub**: [github.com/YourUsername](#)
+- **GitHub**: [github.com](github.com/vlsienthusiast00x)
 - **LinkedIn**: [linkedin.com/in/YourProfile](#)
 - **Email**: your.email@example.com
 
