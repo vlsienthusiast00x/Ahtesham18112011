@@ -48,8 +48,7 @@ I believe in:
 
 ## 📫 Let’s Connect
 - **GitHub**: [github.com](github.com/vlsienthusiast00x)
-- **LinkedIn**: [linkedin.com/in/YourProfile](#)
-- **Email**: your.email@example.com
+- **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/ahtesham-ahmed-779845365/)
 
 ---
 
