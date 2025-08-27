@@ -14,16 +14,6 @@
 
 ---
 
-## 🌐 Languages Used
-| Category           | Tools / Languages |
-|--------------------|-------------------|
-| **Hardware Design** | Verilog, SystemVerilog |
-| **Programming**    | Python, C |
-| **Assembly**       | RISC‑V Assembly, MIPS Assembly |
-| **Markup & Docs**  | Markdown, LaTeX |
-
----
-
 ## 📂 Featured Learning Projects
 ### 🚀 [RISC‑V 32IM Pipeline CPU](#)
 _A personal exploration of pipelining, hazards, and instruction handling_  
