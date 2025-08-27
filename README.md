@@ -1,38 +1,66 @@
-# Hi there, I'm Ahtesham! 👋
+# 👋 Hi, I’m Ahtesham  
 
-Welcome to my GitHub profile.
+💡 **CPU Architecture & FPGA Enthusiast**  
+🔍 Passionate about exploring **pipeline design, hazard resolution, and RISC‑V architecture** — with a focus on learning, experimenting, and sharing insights.
 
-## 🚀 About Me
-- 💻 Hardware Description Language enthusiast (Verilog)
-- 🌱 I’m currently learning advanced digital design and FPGA development
-- 👨‍💻 I’m also interested in software development 
-- 💬 Ask me about languages like TCL, Verilog and Python
+---
 
-## 🛠️ Languages 
-![TCL](https://img.shields.io/badge/TCL-%23E44D26.svg?style=flat&logo=tcl&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-%23E44D26.svg?style=flat&logo=verilog&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23E44D26.svg?style=flat&logo=tcl&logoColor=white)
+## 🛠️ Interests & Focus
+- Building and refining **multi‑cycle & pipelined CPU architectures**
+- Exploring **forwarding, hazard handling, and control flow logic**
+- Using FPGA synthesis tools to bring designs to life
+- Visualizing architectures through **block diagrams & waveform analysis**
+- Understanding the link between **assembly, machine code, and hardware behavior**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlsienthusiast00x&layout=compact)
+---
 
+## 🌐 Languages Used
+| Category           | Tools / Languages |
+|--------------------|-------------------|
+| **Hardware Design** | Verilog, SystemVerilog |
+| **Programming**    | Python, C |
+| **Assembly**       | RISC‑V Assembly, MIPS Assembly |
+| **Markup & Docs**  | Markdown, LaTeX |
 
+---
 
-## ⚡ Some popular Projects
-- [RISC-V core on FPGA](https://github.com/bytesculptor097/RISCV_MYTH) - RISC-V core implementation on FPGA
-- [RV32IM core](https://github.com/bytesculptor097/rv32im-single-cycle-cpu) - A single-cycleed RISC-V core with multiplication/Division operations.
-## 🎮 Featured Project
+## 📂 Featured Learning Projects
+### 🚀 [RISC‑V 32IM Pipeline CPU](#)
+_A personal exploration of pipelining, hazards, and instruction handling_  
+- Correct **PC tracking** for JAL, JALR, AUIPC, LUI, Branch  
+- Hazard detection & forwarding paths validated with simulation  
+- Synthesis tested on FPGA boards
 
-[![Play Pong!](https://img.shields.io/badge/Pong-Play%20Now-green?style=for-the-badge&logo=github)](https://github.com/bytesculptor097/pong)
+### 🔍 [Pipeline Hazard Visualizer](#)
+_A tool to visualize pipeline hazards and flush behavior in real time_  
+- Simulates stall, flush, and forwarding scenarios  
+- Built to deepen understanding of CPU control flow
 
-A classic Pong game made in Python! 🏓
-## 📈 GitHub Stats
-![Ahtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlsienthusiast00x&show_icons=true&hide_title=true)
+---
 
+## 📈 Current Goals
+- Validate hazard handling under all branch/jump scenarios
+- Expand regression testing for pipeline correctness
+- Experiment with different FPGA boards & synthesis tools
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtesham-ahmed-779845365/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+---
 
+## 📜 Enthusiast Philosophy
+> “Curiosity fuels learning. Every bug is an opportunity to understand deeper.”
 
-<!--
-**Ahtesham18112011/Ahtesham18112011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I believe in:
+- **Hands‑on learning** — theory comes alive when tested in hardware
+- **Documentation & visualization** — ideas are clearest when they can be shown
+- **Community learning** — sharing progress to spark discussions
+
+---
+
+## 📫 Let’s Connect
+- **GitHub**: [github.com/YourUsername](#)
+- **LinkedIn**: [linkedin.com/in/YourProfile](#)
+- **Email**: your.email@example.com
+
+---
+
+<!-- Optional: Add GitHub Stats -->
+![Ahtesham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
